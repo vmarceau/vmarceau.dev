@@ -9,7 +9,6 @@ const useContentStyles = makeStyles(() => ({
     alignItems: 'center',
   },
   content: {
-    textAlign: 'justify',
     maxWidth: '960px',
     paddingLeft: '20px',
     paddingRight: '20px',

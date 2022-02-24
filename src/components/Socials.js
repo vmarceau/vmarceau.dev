@@ -20,6 +20,9 @@ const useStyles = makeStyles((theme) => ({
     '&:hover': {
       color: 'black',
     },
+    '&:active': {
+      color: 'black',
+    },
   },
 }));
 
