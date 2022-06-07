@@ -11,7 +11,7 @@ export default function About() {
         <h2>About me</h2>
         <p>
           I followed a slightly unusual professional trajectory, that brought me from physics to AI/ML and nowadays to
-          software engineering, a field I am getting very passionate about.
+          software engineering, a field I am very passionate about.
         </p>
         <p>
           I currently work at{' '}

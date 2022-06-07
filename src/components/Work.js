@@ -19,33 +19,9 @@ export default function Work() {
           mobile monitoring application.
         </p>
         <p>
-          At ABB, I worked principally on lidar and radar level sensors (
-          <a
-            href={'https://new.abb.com/products/measurement-products/level/laser-level-transmitters/llt100'}
-            target={'_blank'}
-            rel={'noopener noreferrer'}
-          >
-            LLT100
-          </a>{' '}
-          and{' '}
-          <a
-            href={
-              'https://new.abb.com/products/measurement-products/level/guided-wave-radar-level-transmitters/lwt300-series-guided-wave-radar'
-            }
-            target={'_blank'}
-            rel={'noopener noreferrer'}
-          >
-            LWT300
-          </a>
-          ), for which I was responsible for developing the signal processing software. I also worked on a few{' '}
-          <a
-            href={'https://new.abb.com/products/measurement-products/analytical/ft-ir-and-ft-nir-analyzers'}
-            target={'_blank'}
-            rel={'noopener noreferrer'}
-          >
-            FTIR
-          </a>{' '}
-          (Fourier Transform interferometers) instrument projects for space and defense contracts.
+          At ABB, I worked principally on lidar and radar level sensors, for which I was responsible for developing the
+          signal processing software. I also worked on the modelling and signal processing of FTIR (Fourier Transform
+          interferometers) instruments for space and defense contracts.
         </p>
         <h3>Talks</h3>
         <p>
