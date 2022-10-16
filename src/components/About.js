@@ -18,7 +18,7 @@ export default function About() {
           <a href={'https://www.auth0.com'} target={'_blank'} rel={'noopener noreferrer'}>
             Auth0
           </a>{' '}
-          (part of Okta) as a software engineer, where I am learning more about large-scale distributed systems,
+          (part of Okta) as a software engineer, where I am building at the intersection of large-scale distributed systems,
           security, identity and access management.
         </p>
         <p>
