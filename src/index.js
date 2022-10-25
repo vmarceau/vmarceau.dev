@@ -1,7 +1,10 @@
 import React from 'react';
+import ReactGA from "react-ga4";
 import ReactDOM from 'react-dom';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+
+ReactGA.initialize(process.env.REACT_APP_GA_MEASUREMENT_ID);
 
 ReactDOM.render(
   <React.StrictMode>
